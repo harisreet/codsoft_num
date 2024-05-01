@@ -1,1 +1,1 @@
-# codsoft_num
+Developed a fun and interactive Number Guessing game. Implemented features for players to guess a random number within a specified range.Provided feedback to players on their guesses (e.g., too high, too low) to guide them towards the correct answer.Enhanced the user experience with clear instructions and intuitive interface design.Tested the game thoroughly to ensure smooth gameplay and functionality.
